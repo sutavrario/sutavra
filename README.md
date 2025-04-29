@@ -8,7 +8,6 @@
 
 🌱 Learning:
 - Python | C | Web Dev | Cloud | AI/ML
-- Contributing to Ubuntu in the near future
 
 📫 Connect with me:
 - [Google Developer Profile](your-link)
